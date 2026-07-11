@@ -1,7 +1,5 @@
 # What's up, Doc? 
 
-### I see you have stumbled your way in here... Well since you're here I might as well tell about myself. 
-
 + Third-year Computer Engineering Student
 + Software Team member (Hawkeye) in UBC UAS
 + Favorite language: Java
